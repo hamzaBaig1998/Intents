@@ -1,0 +1,30 @@
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="XYZ Service Provider" />
+
+    <Button
+        android:id="@+id/transportation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Transportation" />
+
+    <Button
+        android:id="@+id/maintenance"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Maintenance" />
+
+    <Button
+        android:id="@+id/purchase"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="P and Delivery" />
+
+</LinearLayout>

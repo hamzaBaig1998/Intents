@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LabMid</string>
+    <string-array name="listofareas">
+        <item>Islamabad</item>
+        <item>Rawalpindi</item>
+        <item>Lahore</item>
+        <item>Karachi</item>
+    </string-array>
+</resources>
